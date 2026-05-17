@@ -6,7 +6,7 @@ conda create -n wineq python=3.10 -y
 
 ## 2. Activate the enivronment
 ```bash
-conda activate wineq
+conda activate wineq 
 ```
 
 ## 3. Create a requirements.txt file
